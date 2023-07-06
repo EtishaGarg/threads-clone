@@ -1,0 +1,23 @@
+{
+  "name": "threads-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtishaGarg/threads-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtishaGarg/threads-clone/issues"
+  },
+  "homepage": "https://github.com/EtishaGarg/threads-clone#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
